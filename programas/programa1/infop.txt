@@ -1,0 +1,45 @@
+ESTRUCTURA CURRICULAR 
+
+SEMESTRE I
+
+- Taller Tecnologico
+- Programación Imperativa
+- Matematicas
+
+SEMESTRE II
+
+- Programacion Orientada a Objetos
+- Matematicas Discretas
+- Calculo Monovariable
+
+SEMESTRE III
+
+- Programacion Interativa
+- Matematicas Discretas II
+- Sistemas Operativo
+
+SEMESTRE IV
+
+- Analisis y Diseño de Algoritmos I
+- Fundamentos de Redes
+- Base de Datos
+
+SEMESTRE V
+
+- Desarrollo de Software I
+- Ciberseguridad
+- Simulacion y Computacion Numerica
+
+SEMESTRE VI
+
+- Desarrollo de Software II
+- Proyecto Integrador I
+- Seminario en Constitucion,Legislacion y Etica
+  de la Profesion
+
+SEMESTRE VII
+
+- Desarrollo de Software III
+- Desarrollo de Aplicaciones para Dispositivos
+  Moviles
+- Innovacion  y Emprendimiento Empresarial

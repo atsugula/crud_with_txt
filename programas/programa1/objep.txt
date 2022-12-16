@@ -1,0 +1,114 @@
+--OBJETIVOS:
+
+--General:
+
+Capacitar recursos humanos con un adecuado
+entendimiento de los sistemas computacionales 
+y de información, de los conceptos relacionados
+con el diseño y construcción de dichos 
+sistemas, con capacidad de analizar, diseñar,
+implementar y mantener soluciones basadas 
+en ellos y con una fundamentación sólida que
+les permita utilizar las herramientas 
+computacionales disponibles y actualizar sus
+conocimientos y habilidades al ritmo de 
+la evolución de la disciplina.
+
+ 
+--Específicos:
+
+1- Conocer y entender conceptos, principios
+   y teorías esenciales relacionadas con 
+   los sistemas de computación y los sistemas
+   de información.
+2- Modelar, diseñar e implementar soluciones
+   informáticas empresariales teniendo en
+   cuenta los requerimientos y la 
+   disponibilidad de recursos.
+3- Evaluar si un sistema computacional cumple
+   con las necesidades corrientes y proponer 
+   mejoras de acuerdo con las necesidades de
+   la empresa y la evolución de la tecnología.
+4- Utilizar teorías, prácticas y herramientas
+   adecuadas para la especificación, diseño, 
+   implementación y evaluación de sistemas
+   de información.
+5- Conocer y aplicar los principios éticos y
+   legales relacionados con el desarrollo y  
+   utilización de sistemas de computación y
+   sistemas de información.
+ 
+
+--PERFIL PROFESIONAL--
+
+1- Desarrollar software individualmente o
+   como miembro de un grupo de desarrollo de 
+   sistemas de información, asumiendo una
+   función acorde con su experiencia.
+2- Atender los requerimientos de los usuarios
+   e identificar soluciones informáticas y
+   aplicarlas según necesite dar entrenamiento
+   a usuarios y a otros miembros del grupo
+   soporte.
+3- Resolver problemas operativos y técnicos
+   por sí mismo ó en contacto con otras personas
+   o grupos.
+4- Participar en un grupo de diseño de sistemas
+   informáticos. Velar por la buena marcha del
+   desarrollo, implantación y pruebas de sistemas
+   informáticos, asi como de organizar el 
+   entrenamiento de los usuarios de los 
+   sistemas generados.
+5- Administrar servicios informáticos ó
+   teleinformáticos que sirven de base a la
+   labor de una organización. Mantener en 
+   funcionamiento la infraestructura requerida 
+   para esto y coordinar una adecuada manutención
+   y renovación de equipos y sistemas computacionales.
+6- Crear pequeñas empresas de informática, 
+   identificando sectores ó nichos en los que
+   pueda desempeñar una gestión de liderazgo en
+   la innovación o mejoramiento apoyados por la  
+   informática.
+7- Articular demanda y oferta de servicios de
+   informática.
+8- Resolver problemas relacionados con el soporte
+   físico, el soporte lógico, las comunicaciones 
+   y el procesamiento eficiente de uno de los 
+   recursos fundamentales de las 
+   instituciones: la información.
+ 
+
+--PERFIL OCUPACIONAL--
+
+El Tecnólogo en Desarrollo de Software podrá 
+desempeñarse en un grupo de diseño de Sistemas 
+Informáticos; administrar servicios informáticos 
+que sirven de base a la labor de una organización 
+y mantener la infraestructura requerida para ello, 
+además de crear pequeñas empresas de informática 
+identificando sectores en los que puedan desempeñar 
+una gestión de liderazgo en la innovación o 
+mejoramiento apoyados por la infomática, y será 
+capaz de laborar como:
+
+1- Experto en soportes técnicos a usuarios de 
+   informática o persona que, en función de las
+   necesidades de los usuarios, es capaz de 
+   identificar soluciones informáticas y 
+   aplicarlas según se necesite, dar entrenamiento
+   a usuarios y otros miembros del grupo de soporte. 
+   Puede resolver problemas operativos y técnicos 
+   por sí mismo o en contacto con otras personas
+   o grupos.
+2- Analista de sistemas ó persona capaz de participar
+   en un grupo de diseño de sistemas informáticos.
+   Además, persona capacitada para velar por una
+   buena marcha del desarrollo, su prueba, 
+   implantación y el entrenamiento de los 
+   usuarios de los sistemas generales.
+3- Resolver problemas relacionados con el
+   soporte físico, el soporte lógico, las 
+   comunicaciones y el procesamiento eficiente 
+   de uno de los recursos fundamentales de las 
+   instituciones: la Información.

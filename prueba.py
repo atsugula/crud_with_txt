@@ -21,8 +21,6 @@ def eliminar():
         print(carlos)
         for linea in carlos:
             archivo.write(linea)
-# eliminar()
-# print(leer('prueba.txt'))
 
 def promedio():
     lista = leer('prueba.txt')
@@ -30,4 +28,7 @@ def promedio():
     temp.pop(0)
     for linea in temp:
         print(linea)
+
+# modificar()
 promedio()
+# promedio()
