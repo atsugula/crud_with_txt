@@ -1,5 +1,0 @@
-['pruieba', 12, 30]
-['pruieba', 12, 30]
-['programa','cantidad','cursos]
-['programa1','cantidad1','cursos1]
-12

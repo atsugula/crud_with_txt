@@ -1,4 +1,3 @@
-probando, 12, 30
-probando2, 12, 30
-probando3, 12, 30
-probando4, 12, 30
+Desarrolo de software,22,9
+Ingeniería de sistemas,22,20
+aslkdjflas,0,0
